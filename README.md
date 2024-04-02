@@ -3,7 +3,7 @@
 - 🔭 Procuro Oportunidade na área de Programação.
 - 🌱 Estou aprendendo Java e Banco de Dados.
   <div>
-  <a href = 'https://github.com/Rikele1333' >
+  <a href = 'https://github.com/Rikelme1333' >
   <img height = "180cm" src="https://github-readme-stats.vercel.app/api?username=Rikelme1333&show_icons=true&count_private=true&theme=bear" /> 
   <img height = "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikelme1333&layout=compact&langs_count=16&theme=bear" />
   </div>
